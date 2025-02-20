@@ -236,7 +236,7 @@ function App() {
           <div className="max-w-4xl mx-auto text-center">
             <div className="mb-12">
               <img
-                src="https://uc2a874bc148fbb2687dca105339.previews.dropboxusercontent.com/p/thumb/ACjm0PpTwSX1Tgh83XDwOdxEvGeamE0J95o98iN4VOBvSPs1RO5bhguIMdwpscTFnLXCtgOGC39X4i6hCZ-98ldGVh1cpHwfBC_ReMpbU3Vj5ZPADyx8yojWWzIXlAwXMzLr3-nWGyNYuf-p5k6pdq6_4YSG5RKr-AfnuqbHtcP8U5ytKAblJAihGP7qLaetJLb2UcVC3_C1k7QZ1C3pV7pYFv_-z3pJ46WmeJfVZZeGDHkNw6X_jzjEr95M2YGjsk8BzMM2qKcSRxMSVktQmnBO_FLGT0b5yDxI6xnZPhEf9mSO3auuMefalqCbDSokegPTWogb4oH87ReluPWUHzrLCIx0pNU-vHg7kdsNZRE6z9sTYuxINnhbBL8NJPiv6zqlMV36VkII40plGueyHDFk/p.png?is_prewarmed=true"
+                src="https://previews.dropbox.com/p/thumb/ACiIEH7P48zeSWDijuCjH49PFjYjCrDlonCmdaOIkmDdmglgBCWBxaX8jbUAORyGRnBT7o-2edHbr7pM7D0Rm8OkmpAxdiFb5Go0t2WzauOGIbaaxLt8-qiIbFqx-qPp1C_D74QvidTH3eRg8AqNcnXIgEw2yeEFWSSTHrmNs-sbpAOtY3Z30Y5VgY_etYNNEo_GiMtjNJhUIUCvRy8VQ0bVcdIVncugfmWwPdnEaALDrg5awqjTTiGyS1qy6vWqyCAETyw8BL7mOhB-XSosPZkhvC59Erh4zIxPlMjPVgIt8ySlgpSlfEHpIUYw2xvFbIDy00MgD-Ufnl5JWZ0Z_0AU/p.png?is_prewarmed=true"
                 alt="Chetan Chauhan"
                 className="w-48 h-48 rounded-full mx-auto mb-8 object-cover border-4 border-primary/20 hover:border-primary/40 transition-all duration-300 shadow-xl"
               />
@@ -266,7 +266,7 @@ function App() {
               </a>
             </div>
             <div className="mt-8">
-              <a href="https://www.dropbox.com/scl/fi/s7aacjw6q7npctkofupma/Chetan_SDE-1.pdf?rlkey=p0igp6q9zi3r62huk6byzzhqx&e=1&st=cfltiq4w&dl=1" download 
+              <a href="https://www.dropbox.com/scl/fi/s7aacjw6q7npctkofupma/Chetan_SDE-1.pdf?rlkey=p0igp6q9zi3r62huk6byzzhqx&e=1&st=cfltiq4w&dl=0" download 
                  className="inline-flex items-center justify-center bg-gradient-to-r from-primary to-accent text-white font-semibold px-8 py-3 rounded-full text-center hover:shadow-lg transition-all duration-300">
                 <span className="mr-2">Download Resume</span>
                 <ExternalLink className="w-4 h-4" />
