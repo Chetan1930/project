@@ -236,7 +236,7 @@ function App() {
           <div className="max-w-4xl mx-auto text-center">
             <div className="mb-12">
               <img
-                src="https://previews.dropbox.com/p/thumb/ACiIEH7P48zeSWDijuCjH49PFjYjCrDlonCmdaOIkmDdmglgBCWBxaX8jbUAORyGRnBT7o-2edHbr7pM7D0Rm8OkmpAxdiFb5Go0t2WzauOGIbaaxLt8-qiIbFqx-qPp1C_D74QvidTH3eRg8AqNcnXIgEw2yeEFWSSTHrmNs-sbpAOtY3Z30Y5VgY_etYNNEo_GiMtjNJhUIUCvRy8VQ0bVcdIVncugfmWwPdnEaALDrg5awqjTTiGyS1qy6vWqyCAETyw8BL7mOhB-XSosPZkhvC59Erh4zIxPlMjPVgIt8ySlgpSlfEHpIUYw2xvFbIDy00MgD-Ufnl5JWZ0Z_0AU/p.png?is_prewarmed=true"
+                src="https://pplx-res.cloudinary.com/image/upload/v1740121921/user_uploads/hqotBMLkwkGcglF/my-img.jpg"
                 alt="Chetan Chauhan"
                 className="w-48 h-48 rounded-full mx-auto mb-8 object-cover border-4 border-primary/20 hover:border-primary/40 transition-all duration-300 shadow-xl"
               />
