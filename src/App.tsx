@@ -266,7 +266,7 @@ function App() {
               </a>
             </div>
             <div className="mt-8">
-              <a href="https://www.dropbox.com/scl/fi/s7aacjw6q7npctkofupma/Chetan_SDE-1.pdf?rlkey=p0igp6q9zi3r62huk6byzzhqx&e=1&st=cfltiq4w&dl=0" download 
+              <a href="https://www.dropbox.com/scl/fi/gb34y26l5fq1crzsq4tr3/Chetan-SDE-latest.pdf?rlkey=sxss0etccf982uahggu4fjfrw&st=e4y4hi14&dl=1" download 
                  className="inline-flex items-center justify-center bg-gradient-to-r from-primary to-accent text-white font-semibold px-8 py-3 rounded-full text-center hover:shadow-lg transition-all duration-300">
                 <span className="mr-2">Download Resume</span>
                 <ExternalLink className="w-4 h-4" />
