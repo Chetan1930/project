@@ -131,7 +131,7 @@ function App() {
       {
         title: 'StudentHub',
         description: 'A comprehensive student management platform built with React and TypeScript, featuring attendance tracking, note management, and portfolio building capabilities',
-        deployedLink: 'https://studenthub2025.netlify.app/', 
+        deployedLink: 'https://studenthub2002-68547c31acfc.herokuapp.com/', 
         codeLink: 'https://github.com/Chetan1930/StudentHub', // Example link
         icon: (
           <div className="relative">
